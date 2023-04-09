@@ -1,0 +1,2 @@
+# pan
+drag e object
